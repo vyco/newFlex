@@ -26,4 +26,8 @@
 
 .fit { -o-object-fit: cover; object-fit: cover; -o-object-position: center center; object-position: center center; }
 
+.columns { -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; }
+
+.rows { -webkit-box-orient: horizontal; -webkit-box-direction: normal; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; }
+
 /*# sourceMappingURL=_flex.css.map */
